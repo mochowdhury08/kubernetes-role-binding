@@ -1,6 +1,6 @@
 #Install kubectl in any node and have the kubeconfig set so that kubectl can access the cluster API
 
-Nodes
+https://youtu.be/Rk1yc5lNd-gNodes
 
 kubectl get nodes
 kubectl get nodes --show-labels
